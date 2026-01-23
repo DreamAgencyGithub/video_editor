@@ -19,6 +19,7 @@ dependencies:
   transparent_image: ^2.0.1 # show fade-in placeholder in thumbnails generation
   video_player: 2.10.1
   video_thumbnail: 0.5.6
+  ffmpeg_kit_flutter_new: 4.1.0
 
 dev_dependencies:
   flutter_test:
