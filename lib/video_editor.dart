@@ -1,7 +1,6 @@
 library video_editor;
 
 export 'src/controller.dart';
-export 'src/export/ffmpeg_export_config.dart';
 export 'src/models/cover_style.dart';
 export 'src/models/crop_style.dart';
 export 'src/models/trim_style.dart';
